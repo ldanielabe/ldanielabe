@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my gitHub <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">🥳 </h1>
+<h1 align="center">Welcome to my gitHub 👋🥳 </h1>
 <p align="center">
 <a href="https://github.com/ldanielabe"><img width="100%" src="https://github.com/ldanielabe/ldanielabe/blob/master/.github/laura-daniela.gif" /></a>
 </p>
