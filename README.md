@@ -31,9 +31,10 @@
 <p align="center">
 If you're interested in me profile, you can contact me: <a href="mailto:lauridani1@gmail.com?Subject=I%20want%20to%20hire%20you">lauridani1@gmail.com</a>
 </p><br>
+<p align="center">
 <a href="https://www.linkedin.com/in/ldanielabe/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a><br>
+</a></p><br>
 
 ## About me 🧚‍♀️
 <p align="center">
